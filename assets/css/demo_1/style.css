@@ -1,5 +1,11 @@
 /* Layouts */
 /* Animation Mixins */
+.sidebar > .nav .nav-item.nav-profile{
+  margin-left: 8px !important;
+}
+.navbar.default-layout .navbar-brand-wrapper .navbar-brand img{
+  margin:0px 45px 0px 0px !important;
+}
 @-webkit-keyframes dropdownAnimation {
   from {
     opacity: 0;
